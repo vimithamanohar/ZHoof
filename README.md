@@ -6,6 +6,9 @@ Kids Renewable Game Developed in XNA
 
 Our main focus for the game is children of age 8-12years. The goal of the game is to provide the formulae E2 via both Entertainment and Education. The levels of the games are developed in such a way that, it teaches the child playing the game with some knowledge on sustainability like to clean the city, to throw the trashes in correct re-cycle bins and to reduce carbon foot prints. Teaching children early in their life about energy efficiency makes habit which will follow for rest of their life.  
 
+![homescreen](https://user-images.githubusercontent.com/25167769/40328107-19dc3bb0-5cfa-11e8-8237-5c5e983cc771.png)
+
+
 # SOFTWARE TOOLS
 
 1.	__XNA 3.0__  - 
